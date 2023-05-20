@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Chess-Trainer/static/css/main.e6c13ad2.css",
-    "main.js": "/Chess-Trainer/static/js/main.b60809d6.js",
-    "static/js/787.64061405.chunk.js": "/Chess-Trainer/static/js/787.64061405.chunk.js",
-    "index.html": "/Chess-Trainer/index.html",
-    "main.e6c13ad2.css.map": "/Chess-Trainer/static/css/main.e6c13ad2.css.map",
-    "main.b60809d6.js.map": "/Chess-Trainer/static/js/main.b60809d6.js.map",
-    "787.64061405.chunk.js.map": "/Chess-Trainer/static/js/787.64061405.chunk.js.map"
+    "main.css": "/ChessTrainer/static/css/main.e6c13ad2.css",
+    "main.js": "/ChessTrainer/static/js/main.a2f061f2.js",
+    "static/js/787.64061405.chunk.js": "/ChessTrainer/static/js/787.64061405.chunk.js",
+    "index.html": "/ChessTrainer/index.html",
+    "main.e6c13ad2.css.map": "/ChessTrainer/static/css/main.e6c13ad2.css.map",
+    "main.a2f061f2.js.map": "/ChessTrainer/static/js/main.a2f061f2.js.map",
+    "787.64061405.chunk.js.map": "/ChessTrainer/static/js/787.64061405.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b60809d6.js"
+    "static/js/main.a2f061f2.js"
   ]
 }
